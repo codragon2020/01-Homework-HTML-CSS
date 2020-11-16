@@ -6,7 +6,7 @@ This is the first work assignment requested by the University of Richmond Bootca
 
 ## Screenshot
 
-![Alt text](./assets/images/readme_pic.png) "Screenshot of Work")
+![Alt text](./assets/images/readme_pic.png "Screenshot of Work")
 
 ## Link to Site
 
